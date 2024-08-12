@@ -11,6 +11,9 @@
         <Reference Include="ICities">
             <HintPath>/media/neila/MobileDisk/programs/ubin/CitiesSkylines/versions/v1.17.1-f5/Cities_Data/Managed/ICities.dll</HintPath>
         </Reference>
+        <Reference Include="UnityEngine">
+            <HintPath>/media/neila/MobileDisk/programs/ubin/CitiesSkylines/versions/v1.17.1-f5/Cities_Data/Managed/UnityEngine.dll</HintPath>
+        </Reference>
     </ItemGroup>
 
 </Project>
