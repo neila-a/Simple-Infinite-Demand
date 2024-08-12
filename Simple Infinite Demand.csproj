@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>Simple_Infinite_Demand</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="ICities">
+            <HintPath>/media/neila/MobileDisk/programs/ubin/CitiesSkylines/versions/v1.17.1-f5/Cities_Data/Managed/ICities.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+
+</Project>
